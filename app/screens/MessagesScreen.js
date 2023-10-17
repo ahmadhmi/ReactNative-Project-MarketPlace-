@@ -11,55 +11,13 @@ const initialMessages = [
     id: 1,
     title: "T1",
     description: "D1",
-    image: require("../assets/mosh.jpg"),
+    image: require("../assets/ahmad.jpg"),
   },
   {
     id: 2,
     title: "T1",
     description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 3,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 4,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 5,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 6,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 7,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 8,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
-  },
-  {
-    id: 9,
-    title: "T1",
-    description: "D1",
-    image: require("../assets/mosh.jpg"),
+    image: require("../assets/ahmad.jpg"),
   }
 ];
 
