@@ -8,11 +8,12 @@ import MessagesScreen from "./app/screens/MessagesScreen";
 import WelcomeScreen from "./app/screens/WelcomeScreen";
 import ViewImageScreen from "./app/screens/ViewImageScreen";
 import AccountScreen from "./app/screens/AccountScreen";
+import ListingScreen from "./app/screens/ListingScreen";
 
 export default function App() {
   return (
     <GestureHandlerRootView>
-      <AccountScreen/>
+      <ListingScreen/>
     </GestureHandlerRootView>
   );
 }
