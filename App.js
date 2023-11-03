@@ -11,12 +11,12 @@ import AccountScreen from "./app/screens/AccountScreen";
 import ListingScreen from "./app/screens/ListingScreen";
 import AppPicker from "./app/components/AppPicker";
 import AppTextInput from "./app/components/AppTextInput";
+import LoginScreen from "./app/screens/LoginScreen";
 
 export default function App() {
   return (
     <GestureHandlerRootView>
-      <AppPicker icon="apps" placeholder="Category" />
-      <AppTextInput icon="email" placeholder="Email" />
+      <LoginScreen />
     </GestureHandlerRootView>
   );
 }
